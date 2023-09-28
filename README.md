@@ -14,3 +14,12 @@ Crear una aplicación CÁMARA empleando OpenCV y Kivy con las siguientes caracte
 	b) Si detecta la mano derecha: Grabar un video hasta que deje de detectar la mano derecha.
 
 3) Grabar el nombre de los archivos creados (video o imágenes) en una base de datos y mostrar en una lista para poder reproducirla mediante un click.
+
+## Iniciar la app
+*Se recomienda utilzar un entorno virtual para ininciar la app y descargar librerias*
+´
+git clone https://github.com/santipdmonte/Soporte2023_Kivy_OpenCV_APP
+cd Soporte2023_Kivy_OpenCV_APP
+pip install -r requirements.txt
+´
+Ejecurar el archivo index.py
