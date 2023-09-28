@@ -18,6 +18,13 @@ Crear una aplicación CÁMARA empleando OpenCV y Kivy con las siguientes caracte
 ## Iniciar la app
 *Se recomienda utilzar un entorno virtual para ininciar la app y descargar librerias*
 
+Crear entorno virtual
+```
+python -m venv .venv
+.\.venv\Scripts\activate
+```
+
+Descargar App
 ```
 git clone https://github.com/santipdmonte/Soporte2023_Kivy_OpenCV_APP
 cd Soporte2023_Kivy_OpenCV_APP
