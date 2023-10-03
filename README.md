@@ -1,6 +1,6 @@
 # App Login Registro Facial con OpenCV y Kivy
 
-Creamos una app de Kivy con OpenCV con la cual podemos realziar el login con reoconocimiento facial utilizando la libreria (OpenCV). 
+Creamos una app de Kivy con OpenCV con la cual podemos realizar el login con reoconocimiento facial utilizando la libreria (OpenCV). 
 
 La consigna del trabajo es:
 
